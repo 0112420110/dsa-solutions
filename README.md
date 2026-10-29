@@ -6,12 +6,12 @@ Data Structures and Algorithms solutions written in **C** during my CSE coursewo
 
 | Topic | Programs |
 |-------|----------|
-| **Recursion** | Factorial, Fibonacci, GCD, sum of digits, power (a^b), array sum/min/max, linear search, palindrome check, power-of-4 check |
+| **Recursion** | Factorial, Fibonacci, GCD, sum of digits, (a^b), array sum/min/max, linear search, power-of-4 check |
 | **Searching** | Linear search, binary search, first and last occurrence, square root (integer and fractional) using binary search |
-| **Sorting** | Merge array, kth smallest, median, sort by absolute value, sort by frequency, string sorting, smallest difference, consecutive subsequence |
+| **Sorting** | Merge array, kth smallest, median, sort by absolute value, string sorting, smallest difference, consecutive subsequence |
 | **Stack** | Push/pop, balanced parentheses, reverse words |
 | **Queue** | Circular queue, queue using stacks |
-| **Graph** | Adjacency matrix and list, BFS, DFS, connected components, bipartite check, cycle detection, shortest path, number of islands |
+| **Graph** | Adjacency matrix, BFS, DFS, connected components, bipartite check, cycle detection, shortest path, number of islands |
 | **Divide and Conquer** | Merge sort, quick sort, maximum sum subarray, min/max, majority element, count even numbers, count vowels |
 | **Greedy** | Activity selection, fractional knapsack, Huffman coding |
 | **Dynamic Programming** | 0/1 knapsack |
@@ -51,9 +51,9 @@ On Windows, run `merge_sort.exe` instead of `./merge_sort`.
 ## Notes
 
 - Language: C (some practice files in C++)
-- Each file starts with a short comment describing the problem, the approach, and the time and space complexity where relevant.
 
 ## Contact
 
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Email:** your-email@example.com
+- **GitHub:** [0112420110](https://github.com/0112420110)
+- **Email:** jnymeshourin@gmail.com
+- 
